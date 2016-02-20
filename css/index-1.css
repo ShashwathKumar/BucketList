@@ -30,6 +30,27 @@ body p{
     font-size: 48px;
     font-family: Tahoma;
     color: azure;
-    margin: 100px 40px;
+    margin: 115px 40px 100px 30px;
     text-align: center;
+    -webkit-border-radius: 8px;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline-flex;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+.pl_news img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    margin: 0px 40px;
+    opacity: 0.55;
+    -webkit-transition: opacity 0.6s;
+}
+.pl_news img:hover{
+    opacity: 0.88;
 }
