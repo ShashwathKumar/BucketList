@@ -2,4 +2,4 @@ Wish fulfilling app
 
 Link to our website:
 
-http://hackerpack.me/BucketList/
+http://shashwathkumar.github.io/BucketList
