@@ -7,6 +7,16 @@ h2{
     position: absolute;
     top: 500px;
 }
+header h1{
+    display: inline;
+    position: absolute;
+    top: 400px;
+    font-size: 48px;
+    font-family: Brush Script MT;
+    text-align: center;
+    margin-right: 0px 0px 150px 150px;
+    color: floralwhite;
+}
 body{
     background-color: black;
 }

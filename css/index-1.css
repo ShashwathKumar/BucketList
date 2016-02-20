@@ -1,11 +1,35 @@
 header{
-    text-align: center;
+    text-align: bottom right;
     color: #58FAF4;
     font-size: 40px;
     font-family: papyrus;
-    
+    border-radius: 25px;
+}
+header img{
+    border-radius: 100%;
+    border: 5px solid antiquewhite;
+    width: 256px;
+    height: 256px;
+    margin: 80px 80px;
+}
+header h2{
+    display: inline;
+    position:absolute;
+    margin: 180px 400px;
+    color: bisque;
+}
+container{
+    position: absolute;
 }
 body{
-    background-color: lightcoral;
+    background-color: black;
     color:aqua;
+}
+body p{
+    background-color: #151515;
+    font-size: 48px;
+    font-family: Tahoma;
+    color: azure;
+    margin: 100px 40px;
+    text-align: center;
 }
